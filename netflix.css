@@ -1,0 +1,15 @@
+body{
+   font-family: 'Kanit', sans-serif;
+   background-color: rgb(91, 3, 3);
+   color: whitesmoke;
+   letter-spacing: 4px;
+   text-align: center;
+   text-shadow: 5px 5px 5px green;
+}
+h1{
+  font-size: 80px;
+}
+.btn{
+  padding: 10px;
+  border-radius: 10px;
+}
